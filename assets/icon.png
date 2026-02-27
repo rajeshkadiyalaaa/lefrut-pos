@@ -1,0 +1,8 @@
+
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#10B981"/>
+  <circle cx="128" cy="100" r="40" fill="#FEF3C7"/>
+  <text x="128" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937">🍊</text>
+  <text x="128" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">LE FRUT</text>
+  <text x="128" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">POS</text>
+</svg>
